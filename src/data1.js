@@ -1,4 +1,4 @@
-export const details = [
+export const details1= [
     {
         id : 1,
         driver:"Rajesh",
@@ -32,22 +32,6 @@ export const details = [
       
     }
     ,
-    {
-        id : 3,
-        driver:"Deepak",
-        trips : {
-            tripStart: "sector 12",
-            tripEnd: "sector 8",
-            tripStartTime:"3:20 PM",
-            tripEndTime:"7:20 PM",
-            tripExpenses: 0,
-            tripKm : 656.0,
-            gpsKm : 0.00,
-            tripTime : "05 hrs 00 min",
-            odometerReading:{
-                start:10209,
-                end : 10284}
-        }
-      
-    }
+  
+  
 ]

@@ -1,8 +1,8 @@
 import React from 'react';
 import './index.css'
-import { details } from "./data"
 
-const TripSummary = () =>{
+
+const TripSummary = ({details}) =>{
     return(
         <div className="Trip_Section">
             <div className="trip_header">
