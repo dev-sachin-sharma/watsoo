@@ -1,0 +1,32 @@
+.header_Section{
+    display: flex;
+    /* width: 100%; */
+    background: rgb(6, 6, 78);
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    padding: 1%;
+    align-items: center;
+}
+.menu_icon {
+    margin-right: 2%;
+}
+.menu_icon div{
+    width: 26px;
+    height: 3px;
+    background-color: white;
+    margin: 4px 0;
+}
+.logout{
+    position: absolute;
+    right: 1%;
+    background: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    font-size: 10px;
+    padding: 0.5% 1%;
+    border-radius: 2px;
+
+}
