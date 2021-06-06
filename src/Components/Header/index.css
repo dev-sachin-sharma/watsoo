@@ -8,6 +8,7 @@
     z-index: 100;
     padding: 1%;
     align-items: center;
+    min-height: 42px;
 }
 .menu_icon {
     margin-right: 2%;
